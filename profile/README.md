@@ -3,12 +3,12 @@
 
 # Hey there! 👋
 
-We are the GitHub Design team — a globally distributed team of product designers, site designers, design engineers, researchers, and more! Together we design the brand and product experiences that you interact with when you use GitHub.
+We are the GitHub Design team — a globally distributed team of product designers, site designers, design engineers, and more! Together we design the brand and product experiences that you interact with when you use GitHub.
 
 
 ---
 
-- 🕵️‍♀️ Explore open roles on our [careers page](https://www.github.careers/careers-home)
+- 🕵️‍♀️ Explore open roles on our [careers page](https://www.github.careers/careers-home/jobs?categories=Design&page=1)
 - 📧 Get in touch at design-team@github.com 
 - 📖 Read design posts on the [GitHub Blog](https://github.blog/tag/design/)
 
